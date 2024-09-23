@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ihtisha72987404" target="blank"><img src="https://img.shields.io/twitter/follow/ihtisha72987404?logo=twitter&style=for-the-badge" alt="ihtisha72987404" /></a> </p>
 
-- 🔭 I’m currently working on [Filmymela](https://filmymela.vercel.app) and [Recipe Radiance](https://reciperadiance.vercel.app)
+- 🔭 I’m currently working on [Recipe Radiance](https://reciperadiance.vercel.app)
 
-- 🌱 I’m currently learning **Next.js, Django, Node.js**
+- 👨‍💻 All of my projects are available at [Ehtesham Ul Haq](https://github.com/Ehtesham-Ul-Haq)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ehtesham-Ul-Haq](https://github.com/Ehtesham-Ul-Haq)
+- 💬 Ask me about **Reactjs, Nextjs**
+- 
+- 📄 Know about my experiences [Ehtesham Ul Haq](https://www.linkedin.com/in/ihtisham-bajwa-aa86a91b8/)
 
-- 💬 Ask me about **react, next**
-
-- 📫 How to reach me **https://filmymela.vercel.app/help/contact**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ihtisham-bajwa-aa86a91b8/](https://www.linkedin.com/in/ihtisham-bajwa-aa86a91b8/)
-
-- ⚡ Fun fact **I think I can be a good developer**
+- ⚡ Fun fact **I think I can be a good developer, All depends on giving a chance!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
