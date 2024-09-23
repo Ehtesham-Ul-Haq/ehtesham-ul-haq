@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [Ehtesham Ul Haq](https://github.com/Ehtesham-Ul-Haq)
 
 - 💬 Ask me about **Reactjs, Nextjs**
-- 
+ 
 - 📄 Know about my experiences [Ehtesham Ul Haq](https://www.linkedin.com/in/ihtisham-bajwa-aa86a91b8/)
 
 - ⚡ Fun fact **I think I can be a good developer, All depends on giving a chance!**
