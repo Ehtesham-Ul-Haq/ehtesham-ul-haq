@@ -22,6 +22,7 @@
 <a href="https://twitter.com/ihtisha72987404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihtisha72987404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ihtisham-bajwa-aa86a91b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihtisham-bajwa-aa86a91b8" height="30" width="40" /></a>
 <a href="https://instagram.com/ehtesham28223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehtesham28223" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ehteshamulhaq.bajwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehtesham-ul-haq-bajwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
