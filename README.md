@@ -9,7 +9,7 @@
 - 🔥 I specialize in **React.js** and **Next.js** development.
 - 🌍 Based in **Pakistan**, I thrive on solving complex challenges with elegant solutions.
 - 💡 Always learning and exploring the latest in web technologies.
-- 🚀 Currently working on: [**Recipe Radiance**](https://reciperadiance.vercel.app/)
+- 🚀 Currently working on: [**Recipe Radiance**](https://reciperadiance.vercel.app/) & [**TextEase**](https://github.com/Ehtesham-Ul-Haq/textease)
 
 ---
 
