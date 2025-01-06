@@ -25,7 +25,7 @@
 ### 📬 Connect with Me
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/ihtisham-bajwa-aa86a91b8/)**
-- 🐦 **[Twitter](https://twitter.com/ihtisha72987404)**
+- ❌ **[X || Twitter](https://x.com/ihtisha72987404)**
 - 📸 **[Instagram](https://www.instagram.com/ehtesham28223/)**
 - 📘 **[Facebook](https://m.facebook.com/ehteshamulhaq.bajwa)**
 
