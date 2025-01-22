@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ehtesham Ul Haq!
 
-🎨 **Frontend Developer | Creative Thinker | Passionate Coder**
+🎨 **Frontend & Backend Developer | Creative Thinker | Passionate Coder**
 
 ---
 
@@ -9,7 +9,7 @@
 - 🔥 I specialize in **React.js** and **Next.js** development.
 - 🌍 Based in **Pakistan**, I thrive on solving complex challenges with elegant solutions.
 - 💡 Always learning and exploring the latest in web technologies.
-- 🚀 Currently working on: [**Recipe Radiance**](https://reciperadiance.vercel.app/) & [**TextEase**](https://github.com/Ehtesham-Ul-Haq/textease)
+- 🚀 Currently working on: [**Recipe Radiance**](https://reciperadiance.vercel.app/) & [**TextEase**](https://texteaseutils.vercel.app/)
 
 ---
 
@@ -34,7 +34,8 @@
 ### 🏆 Highlights
 
 - 💻 **Projects**: 
-  - [Recipe Radiance](https://reciperadiance.vercel.app/): A beautifully designed recipe application.
+  - [Recipe Radiance](https://reciperadiance.vercel.app/): A beautifully designed and fully functional recipe web application.
+  - [TextEase](https://texteaseutils.vercel.app/): TextEase is a utility tools application.
 
 - 🌟 **Fun Fact**: I'm always looking for innovative ways to simplify complex processes.
 
@@ -49,7 +50,7 @@
 
 ### 💡 Let's Collaborate!
 
-🚀 I’m open to collaborating on **frontend development projects**, **React.js apps**, and **creative web solutions**. Let’s build something amazing together!
+🚀 I’m open to collaborating on **frontend & backend development projects**, **React.js apps**, and **creative web solutions**. Let’s build something amazing together!
 
 ---
 
