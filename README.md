@@ -66,7 +66,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ehtesham-Ul-Haq&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehtesham-Ul-Haq&layout=compact&theme=radical)
 
 ---
