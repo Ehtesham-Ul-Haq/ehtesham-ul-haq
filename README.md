@@ -44,7 +44,6 @@
 
 ### 📬 Connect with Me
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/ahtsham-bajwa-aa86a91b8/)**
 - ❌ **[X || Twitter](https://x.com/ihtisha72987404)**
 - 📸 **[Instagram](https://www.instagram.com/ehtesham28223/)**
 - 📘 **[Facebook](https://m.facebook.com/ehteshamulhaq.bajwa)**
