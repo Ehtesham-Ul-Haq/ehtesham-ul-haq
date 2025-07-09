@@ -9,7 +9,8 @@
 - 🔥 I specialize in **React.js** and **Next.js** development.
 - 🌍 Based in **Pakistan**, Open to remote opportunities worldwide.
 - 💡 Always learning and exploring the latest in web technologies.
-- 🚀 Currently working on: [**Recipe Radiance**](https://reciperadiance.vercel.app/) & [**TextEase**](https://texteaseutils.vercel.app/)
+- ⭐ Top projects are: [**Recipe Radiance**](https://reciperadiance.vercel.app/) & [**TextEase**](https://texteaseutils.vercel.app/)
+- 🚀 Currently working on: [**AI Resume Pro**](https://github.com/Ehtesham-Ul-Haq/ai-resume-pro) 
 
 ---
 
